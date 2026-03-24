@@ -1,7 +1,4 @@
-Com certeza! Preparei uma documentação completa e profissional para o seu repositório no GitHub. Ela está organizada para que qualquer pessoa (ou você mesmo no futuro) consiga entender, instalar e rodar o projeto rapidamente.
-📈 Stock Predictor 5-Day API
 
-Este projeto utiliza Redes Neurais Recorrentes do tipo LSTM (Long Short-Term Memory) para prever o preço de fechamento de ações (por padrão BBAS3.SA) com base nos últimos 5 dias de negociação. A solução é composta por um pipeline de coleta de dados, treinamento de modelo e uma API para servir as previsões.
 🚀 Estrutura do Projeto
 
     config.py: Centraliza as configurações do projeto, como o Ticker da ação, datas e caminhos de arquivos.
